@@ -70,4 +70,5 @@ To set up the project locally, follow these steps:
 5. Configure your database connection in the 'profiles.yml' file.
 
 
-# Mnay thanks to Zoltan C. Toth's bootcamp on complete dbt from zero to hero!
+## Contributing  
+Many thanks to Zoltan C. Toth's bootcamp on complete dbt from zero to hero!
